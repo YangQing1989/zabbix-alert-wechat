@@ -85,3 +85,6 @@ Configuration --> Actions --> Event Sources(Triggers) --> Create Action
 ![Tigger.Action](img/Tigger.Action.png)
 ![Tigger.operations](img/Tigger.operations.png)
 ![Tigger.recovery.operations](img/Tigger.recovery.operations.png)
+
+
+touser写 "@all"即可
